@@ -6,7 +6,8 @@ In the application, it can save, update and delete notes.
 It can also search by date to be searched.
   In addition, when the note to be displayed is clicked on the line, a panel that can reflect the details of the date and explanation parts has been added to the project.
 
-![Screenshot_7](https://user-images.githubusercontent.com/56034341/222913637-368518ce-770b-4c5a-8e5b-f781c24112b1.png)
+
+![Screenshot_8](https://user-images.githubusercontent.com/56034341/222913892-7eb4f8fe-59fb-4957-99a1-458c134113d7.png)
 
 
 ## Add Panel
